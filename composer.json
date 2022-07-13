@@ -1,0 +1,23 @@
+{
+  "name": "mggflow/transliterator",
+  "description": "Tool for text transliteration by replacement relations.",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Pavel Eliseev",
+      "email": "deusagnis@gmail.com",
+      "homepage": "https://mggflow.in",
+      "role": "Developer"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "MGGFLOW\\Text\\": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.4"
+  }
+}
