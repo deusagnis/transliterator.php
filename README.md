@@ -9,7 +9,7 @@ Available pairs:
 ## Usage
 To install:
 ```
-
+composer require mggflow/transliterator
 ```
 
 Example:
